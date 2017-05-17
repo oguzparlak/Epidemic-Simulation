@@ -1,17 +1,19 @@
-#Epidemic Simulation with Java
-##Run Instructions and Prerequisites
+# Epidemic Simulation with Java
+## Run Instructions and Prerequisites
 
-####Prerequisites
+#### Prerequisites
 The only prerequisite is Java 8 or upper version of Java.
 
-####Run the program with following instructions
+#### Run the program with following instructions
 
 ```
+
 cd out/production/Epidemic\ Simulation/
 java main.Main
+
 ```
 
-##Diagrams
+## Diagrams
 
 ![Alt text](/diagrams/controller.png?raw=true "Controller UML Diagram")
 ![Alt text](/diagrams/model.png?raw=true "Model UML Diagram")
